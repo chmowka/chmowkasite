@@ -1,2 +1,2 @@
 # Репозиторий 
-## Страница сайта: file:///D:/program/git-work,%20vsc/chmowkasite/chmowkasite.html
+## Страница сайта: https://github.com/chmowka/chmowkasite.git
